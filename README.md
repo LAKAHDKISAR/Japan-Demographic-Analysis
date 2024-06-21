@@ -3,8 +3,8 @@ To examine the historical trends and fluctuations in Japan's birth rate over the
 
 # Table Of Content
 - [Introduction](#Overview)
+- [Acknowledgement](#Acknowledgment)
 - [Key Findings](#Key_Findings)
-- [Acknowledgement](#Acknowledgement)
 - [Usage](#Usage)
 - [Requirements](#Requirements)
 - [License](#License)
