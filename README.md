@@ -37,9 +37,9 @@ Run cells to reproduce visualizations and analyses.
 Contribute: Contributions are welcome! Fork the repository and submit pull requests.
 
 # Requirements
-python 3.7 version
-pandas
-matplotlib
+- python 3.7 version
+- pandas
+- matplotlib
 
 # License
 This project is licensed under the MIT License.
